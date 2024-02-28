@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    background: chartreuse;
+    /* border-radius: 10px; */
+    display: flex;
+}
+h2{
+    color: rgb(21, 0, 128);
+    background-color: yellow;
+}
